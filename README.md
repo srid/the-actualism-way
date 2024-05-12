@@ -9,3 +9,10 @@ A **work-in-progress** summary[^meta] of the actualism method, based on my inter
   - [ ] Did I miss any keypoints? Address them.
 - [ ] Add links to the AFT website wherever appropriate
 - [ ] ... anything else?
+
+### Stretch goals
+
+- [ ] Write a better outline renderer
+  - OmniOutliner has a few problems
+    - In-document links navigation is not clear enough
+    - No mobile-friendly view 
