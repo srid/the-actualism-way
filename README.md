@@ -6,5 +6,6 @@ A **work-in-progress** summary[^meta] of the actualism method, based on my inter
 
 - [x] Initial draft
 - [ ] Finalize the summary
+  - [ ] Did I miss any keypoints? Address them.
 - [ ] Add links to the AFT website wherever appropriate
 - [ ] ... anything else?
