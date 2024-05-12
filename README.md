@@ -12,6 +12,7 @@ A **work-in-progress** summary[^meta] of the actualism method, based on my inter
 
 ### Stretch goals
 
+- [ ] Add favicon
 - [ ] Write a better outline renderer
   - OmniOutliner has a few problems
     - In-document links navigation is not clear enough
