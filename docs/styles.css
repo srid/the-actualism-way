@@ -8,7 +8,7 @@ body#wholeDocument {
     font-family: Helvetica, sans-serif; 
     font-size: 12px;
 font-family: "Times New Roman", sans-serif; 
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.32;
     
 }
@@ -308,16 +308,18 @@ tr.note-row td.note {
     /* padding-left: 5px;
     padding-right: 3px; */ 
     border: none;
-color: rgb(185,185,185);
-    font-size: 8px;
-    font-size: 8px;
+color: rgb(144,144,144);
+    font-family: "Verdana", sans-serif; 
+    font-size: 9px;
+    font-family: "Verdana", sans-serif; 
+    font-size: 9px;
     
 }
 tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 887px;
+width: 882px;
 
 }
 /******************
@@ -335,12 +337,12 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 867px; 
-    max-width: 867px; 
+    width: 862px; 
+    max-width: 862px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 867px; 
-    max-width: 867px; 
+    width: 862px; 
+    max-width: 862px; 
     
 }
 
