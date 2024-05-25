@@ -5,15 +5,14 @@ A **work-in-progress** summary[^meta] of the actualism method, based on my inter
 ## Things to do
 
 - [x] Initial draft
-- [ ] Finalize the summary
-  - [ ] Did I miss any keypoints? Address them.
+- [x] Finalize the summary
 - [ ] Add links to the AFT website wherever appropriate
 - [ ] ... anything else?
 
 ### Stretch goals
 
-- [ ] Add favicon
-- [ ] Write a better outline renderer
+- [x] Add favicon
+- [ ] Write a better outline renderer (https://github.com/srid/the-actualism-way/issues/1)
   - OmniOutliner has a few problems
     - In-document links navigation is not clear enough
     - No mobile-friendly view 
